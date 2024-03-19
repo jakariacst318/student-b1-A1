@@ -333,6 +333,36 @@ nav li {
     padding: 20px 100px;
     line-height: 30px;
 }
+/*  project */
+
+.project{
+    text-align: center;
+    background-color: #28ac64;
+    height: 300px;
+    color: #fff;
+    padding-top: 150px;
+    align-items: center;
+}
+.project h1{
+    font-size: 34px;
+}
+.project p{
+    padding: 16px 0;
+}
+.project-bnt {
+    padding: 14px 20px;
+    font-size: 24px;
+    font-weight: 500;
+    border: 2px solid #d9e6df;
+    border-radius: 18px;
+    background: 0;
+    color: #fff;
+    cursor: pointer;
+}
+.project-bnt:hover{
+    background-color: #5ce44d;
+    background-color: #0dec71e3;
+}
 
 /* responsive */
 
