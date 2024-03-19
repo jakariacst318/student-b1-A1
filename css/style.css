@@ -74,7 +74,7 @@ nav li {
 
 .header-container {
     height: 37.5rem;
-    background-image: url(/imges/person.jpeg);
+    background-image: url(../imges/person.jpeg);
     background-size: cover;
 }
 
